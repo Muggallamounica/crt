@@ -56,4 +56,71 @@ while True:
         break
     else:
         print("Invalid choice")
-                
+OUTPUTS:
+[?2004l
+
+1.Insert
+2.Show
+3.Search
+4.Exit
+enter your choice1
+enter element34
+
+1.Insert
+2.Show
+3.Search
+4.Exit
+enter your choice60  1
+enter element60
+
+1.Insert
+2.Show
+3.Search
+4.Exit
+enter your choice1
+enter element35
+
+1.Insert
+2.Show
+3.Search
+4.Exit
+enter your choice1
+enter element70
+
+1.Insert
+2.Show
+3.Search
+4.Exit
+enter your choice1
+enter element45
+
+1.Insert
+2.Show
+3.Search
+4.Exit
+enter your choice1
+enter element1
+
+1.Insert
+2.Show
+3.Search
+4.Exit
+enter your choice2
+1 34 35 45 50 60 70 
+1.Insert
+2.Show
+3.Search
+4.Exit
+enter your choice3
+enter search element50
+Node is found
+
+1.Insert
+2.Show
+3.Search
+4.Exit
+enter your choice3
+enter search element79
+Node is not found
+
+         
